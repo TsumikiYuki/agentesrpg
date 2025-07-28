@@ -4,7 +4,9 @@ Este projeto é uma aplicação web interativa que recria a tela de seleção de
 
 ## Como Publicar no GitHub Pages
 
-Para hospedar este projeto gratuitamente no GitHub Pages, siga estes passos simples. Não é necessário nenhum processo de build ou compilação, pois os arquivos já estão prontos para serem servidos.
+Este projeto foi configurado para rodar diretamente no navegador sem a necessidade de um passo de "build" ou compilação local, facilitando a publicação. Isso é possível através do uso de um transpilador (Babel) que é executado no navegador do usuário para converter o código React (JSX) em JavaScript que o navegador entende.
+
+Para hospedar no GitHub Pages, siga os passos abaixo.
 
 ### Passo 1: Crie um Repositório no GitHub
 
